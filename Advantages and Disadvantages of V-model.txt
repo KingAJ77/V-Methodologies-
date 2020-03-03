@@ -1,0 +1,8 @@
+V-shaped SDLC Model
+ADVANTAGE    +    DISADVANTAGES
+A: Every stage of V-shaped model has strict results so it's easy to control
+D: Lack of the flexibility
+A: Testing and verification take place in the early stages
+D: Bad choice for the small projects
+A: Good for the small projects, where requirements are static and clear
+D: Relatively big risks
